@@ -155,16 +155,12 @@ h4 span {
     color: silver;
 }
 
-/* .num1.p, .num2.p, .num3.p, .num4.p{
-    color: silver;
-    font-weight: 200;
-} */
+
 
 @media screen and (max-width: 600px) {
     .inner {
         height: 100vh;
         width: 100%;
-        /* border: 1px solid #000; */
         
         display: flex;
         flex-direction: column;
